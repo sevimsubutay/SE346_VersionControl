@@ -12,4 +12,5 @@ int main()
 
 	printf("Tugberk Ozsen,17243510052,CMPE\n");
 	printf("Tunahan Akhisar,18243510035,CMPE\n");
+	printf("Subutay Kaan Sevimi18243510086, CMPE \n");
 }
